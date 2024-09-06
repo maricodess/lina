@@ -1,2 +1,2 @@
-# lina
-my dog is named lina
+# CMSC 203
+Computer Science #1 
